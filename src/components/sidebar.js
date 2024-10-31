@@ -1,3 +1,5 @@
+"use client"
+
 import { LayoutDashboardIcon } from "lucide-react";
 import { FolderIcon } from "lucide-react";
 import { UsersIcon } from "lucide-react";
