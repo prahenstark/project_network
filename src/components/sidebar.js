@@ -32,7 +32,7 @@ export default function Sidebar() {
               <div className="flex-1 flex justify-center items-center">
                 <Link href={item.href}>
                   <div
-                    className={`icon p-2 border w-full border-transparent hover:border-border rounded-sm transition ${
+                    className={`icon p-2 border-2 w-full border-transparent hover:border-border rounded-sm transition ${
                       pathname === item.href ? "text-primary" : ""
                     }`}
                   >
